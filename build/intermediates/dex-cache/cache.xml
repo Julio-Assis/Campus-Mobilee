@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_67fed9c47df05659e2639b7187d8adcd414c55d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_89882a68497650de8cf9cbaa8c05c1bd9e43dcff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_aa03de38906cf3fb643ec3c11ad3b4fa80725c69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_546e9cd693cbc7b34b4b97509236a62697c967b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_8633e38c4fb50315357436f47fb88a28d92c1efd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_69a5bd7da558a65fc0966fa69754420d387622b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_46a7d7a1869470eb85f41271a9c3ff760c7a8405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cf47fc5ac494333cbb55257c9da2e2e58eb427c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c3be68eaa0213feda4f1b8bdebcaab97ebc06e6">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_21d236ab1a340f686d6c114615435ee263144a06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_03dc0c8b09f25fb765661e4ce2a5ab33bdf99497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2e80880b02876441cdef243d72b2ceccaca57f1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_80322b9a8bd47e49b3e0ee50f64100abbf28ccb5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_f66f23297bd6654190e8568f9c5914a6982d236c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_8a7aace6b2685badcff3dc7b0880adcda256c3f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4f60fcf50069d7b8c22ee9c04afa99c67bbcfe49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_1ea11bd24c6d48599ef00a23e4b26dc7b6ca6ba6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5bde96a0b4b077e0f15f3f326a279b203203b8c7">
+        <dex dex="C:\Users\julio\Documents\Projetos\Hackathon\testDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_64f7ab2240551cf00875425d5fa567ef553b93e4\classes.dex" />
+    </item>
+
+</items>
